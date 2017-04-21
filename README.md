@@ -1,2 +1,9 @@
 # hello-single-page-web
-simple single page web app hosted in Bluemix object store
+
+This is a simple project to host a static website on the Softlayer/Bluemix Swift object store.
+
+This is based on https://developer.ibm.com/recipes/tutorials/create-a-static-website-with-ibm-object-storage/
+
+## Getting Started
+
+This has been tested on MacOS X.  See [deploy.sh](https://github.com/sjfink/hello-swift-bluemix-website/blob/master/deploy.sh) for details.
